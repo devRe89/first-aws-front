@@ -1,0 +1,15 @@
+.navbar-brand {
+    margin-left: 1rem;
+}
+
+.content-body {
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.content-body ul {
+    margin-bottom: 0;
+}
