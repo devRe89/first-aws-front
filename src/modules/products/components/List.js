@@ -12,7 +12,7 @@ const List = () => {
             setProducts(res);
         }
         getProductsActions();
-    },[]);
+    },[products]);
 
 
 
