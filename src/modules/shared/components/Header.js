@@ -17,7 +17,7 @@ const Header = () => {
                 <Link 
                     className="nav-item nav-link active" 
                     to="/nuevo-producto"
-                >Crear Producto</Link>
+                >Crear Producto Nuevo</Link>
                 </div>
             </div>
         </nav>
